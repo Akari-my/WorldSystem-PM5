@@ -1,0 +1,9 @@
+name: WorldManager
+main: Akari\WorldSystem\Loader
+version: 1.0.0
+api: 5.0.0
+author: Akari_my
+
+permissions:
+  ws.command.use:
+    default: op
