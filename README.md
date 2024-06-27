@@ -1,4 +1,5 @@
 # WorldSystem-PM5
 Simple World System in PocketMIne 5
 
-### ⚠️ THE PLUGIN IS NOT YET 100% COMPLETE PLEASE DO NOT USE THE VOID OPTION IT MAY CAUSE THE SERVER TO CRASH ⚠️
+### Commands
+- /ws
